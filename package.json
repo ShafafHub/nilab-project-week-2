@@ -1,0 +1,17 @@
+{
+    "name": "nilab-project-week-2",
+    "version": "1.0.0",
+    "description": "Products REST API with pure Node.js",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "node --watch server.js"
+    },
+    "keywords": [
+        "api",
+        "products",
+        "nodejs"
+    ],
+    "author": "Nilab",
+    "license": "ISC"
+}
