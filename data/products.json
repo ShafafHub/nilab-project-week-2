@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop",
+    "price": 20000,
+    "description": "High performance laptop",
+    "category": "Electronics"
+  },
+  {
+    "id": "2",
+    "name": "Coffee Maker",
+    "price": 100,
+    "description": "Automatic coffee machine",
+    "category": "Appliances"
+  },
+  {
+    "id": "3",
+    "name": "Running Shoes",
+    "price": 1000,
+    "description": "Comfortable running shoes",
+    "category": "Sports"
+  }
+]
